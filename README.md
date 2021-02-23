@@ -2,7 +2,7 @@
 
 ## About the project 💻
 
-> Rocketapi is a api to make payaments. 
+Rocketapi is a api to make payaments. 
 This project is made in Elixir, Phoenix and Ecto.
 
 
